@@ -5,4 +5,5 @@ Have the function ScaleBalancing(strArr) read strArr which will contain two elem
 There will only ever be one unique solution and the list of available weights will not be empty. It is also possible to add two weights to only one side of the scale to balance it. If it is not possible to balance the scale then your program should return the string, "not possible".
 
 ### Tests
+
 Please install mocha and chai on your own and write tests to validate that your function is working properly. Please check for and write code to handle things like invalid inputs, missing inputs, etc.
